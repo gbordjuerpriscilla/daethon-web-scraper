@@ -1,4 +1,4 @@
-# Autonomous Web Scraper & Data Extractor
+### Autonomous Web Scraper & Data Extractor
 
 A Python scraper that collects book data from all 50 pages of
 [books.toscrape.com](https://books.toscrape.com), a site built for scraping practice,
